@@ -1,3 +1,5 @@
+TODO: CHANGE README.rst
+
 ###################
 What is CodeIgniter
 ###################
