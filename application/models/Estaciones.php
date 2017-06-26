@@ -3,7 +3,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 class Estaciones extends CI_Model {
 
-
+        public $title;
+        public $content;
+        public $date;
 
         public function actualizar_estacion($estacion)
         {
