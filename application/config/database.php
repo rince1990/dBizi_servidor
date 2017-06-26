@@ -75,10 +75,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'XXXXXXXXXXX',
-	'username' => 'XXXXXXXXX',
-	'password' => 'XXXXXXXXx',
-	'database' => 'XXXXXXXXX',
+	'hostname' => 'localhost',
+	'username' => 'dBizi',
+	'password' => 'dBizi2017',
+	'database' => 'dBizi-bizi',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
